@@ -228,6 +228,21 @@
     padding: 20px;
 }
 @media screen and (max-width: 768px) {
+    .header{
+        overflow-x:hidden;
+    }
+    .banner{
+        overflow-x:hidden;
+    }
+    .order{
+        overflow-x:hidden;
+    }
+    .menu-card{
+        overflow-x:hidden;
+    }
+    .copywrite{
+        overflow-x:hidden;
+    }
     .logo{
         height: 40px;
         width: 40px;
