@@ -218,9 +218,7 @@
     padding: 20px;
 }
 @media screen and (max-width: 768px) {
-        .header{
-        overflow-x:hidden;
-    }
+
     .banner{
         overflow-x:hidden;
     }
